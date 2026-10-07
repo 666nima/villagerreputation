@@ -1,0 +1,1 @@
+{"required": true, "minVersion": "0.8", "package": "dev.villagerreputation.mixin", "compatibilityLevel": "JAVA_17", "refmap": "villagerreputation.refmap.json", "mixins": ["VillagerMixin", "OfferMixin"], "injectors": {"defaultRequire": 1}}
